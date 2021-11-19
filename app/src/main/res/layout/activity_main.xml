@@ -26,4 +26,12 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@mipmap/noel" />
 
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="247dp"
+        tools:src="@tools:sample/backgrounds/scenic" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
